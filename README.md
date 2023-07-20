@@ -2,7 +2,6 @@
 
 ![file sort](https://github.com/CollinsTheAnalyst/My-python-projects/assets/133567772/9d5bd7dc-70f3-414c-ab15-e0a9b744e93d)
 
-
  I developed an innovative and efficient automatic data sorting tool using Python. The objective was to streamline the process of sorting large datasets swiftly and accurately, saving valuable time and effort for data analysts and professionals.
 
 **Key Features and Functionality:**
